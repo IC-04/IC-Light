@@ -156,6 +156,7 @@ bg_samples = [
     'imgs/bgs/8.webp',
     'imgs/bgs/9.webp',
     'imgs/bgs/10.webp',
+    'imgs/bgs/i100.webp',
     'imgs/bgs/11.png',
     'imgs/bgs/12.png',
     'imgs/bgs/13.png',
@@ -176,7 +177,7 @@ background_conditioned_examples = [
     ],
     [
         "imgs/alter/i101.jpg",
-        "imgs/bgs/7.webp",
+        "imgs/bgs/i100.webp",
         "beautiful woman shadow, warm, cinematic lighting",
         "Use Background Image",
         512,
